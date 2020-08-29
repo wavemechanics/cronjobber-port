@@ -1,0 +1,8 @@
+Cronjobber is a wrapper for use with cron jobs:
+* keeps job output in individual rotated log files
+* only sends mail when something significant happens
+* prevents multiple instances of jobs running at once
+* can kill long-running jobs
+* and more
+
+WWW: https://github.com/wavemechanics/cronjobber
